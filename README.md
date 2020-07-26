@@ -1,2 +1,2 @@
-# github-example
-This repository is a demonstration of how to create a Github repository and properly set it up so that it can easily sync with its local version.
+# Segmenting-and-Clustering-Neighborhoods-in-Toronto
+Segmenting and Clustering Neighborhoods in Toronto_IBM Data Science Capstone Project_Week 3
